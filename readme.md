@@ -1,6 +1,6 @@
 #  Bienvenue/Welcome
 
-> Je suis Moratiana Rajaonah ;)  
+> Je suis Moratiana Rajaonah 👋   
 >Mon parcours est le dev-web et le reseau
 > >Le langage que j'ai pris en main est seulement le PHP
 > > >Ma notion de base:
