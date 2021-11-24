@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Moratiana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#  Bienvenue/Welcome
 
-<!---
-Moratiana/Moratiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Je suis Moratiana Rajaonah ;)  
+>Mon parcours est le dev-web et le reseau
+> >Le langage que j'ai pris en main est seulement le PHP
+> > >Ma notion de base:
+>  > > * *JavaScript*  
+>>>
+___ 
+
+
+
+
+<strong><H3>Compétence:</strong>
+    <ul>
+        <li>Dynamique</li>
+        <li>Sympa</li>
+        <li>Initiativiste</li>
+    </ul>
+<hr>
+
+````
+My Project: The app Movies and Me with React-native.
+Login page with PHP.
+Loading ...
+````
+## Merci pour votre Visite.
